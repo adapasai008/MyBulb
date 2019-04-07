@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Bulb</string>
+    <string name="bulb1">blue</string>
+    <string name="bulb2">green</string>
+    <string name="button1">blue</string>
+    <string name="button2">green</string>
+    <string name="blue">blue</string>
+    <string name="green">green</string>
+
+</resources>
